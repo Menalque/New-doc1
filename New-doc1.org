@@ -9,7 +9,7 @@ How about a table?
 | JOE  | 347-267-4082 |  92 |
 
 Let's try a link...
-[[orgmode.org/manual/Hyperlinks.html#Hyperlinks]LINK TO ORGMODE HYPERLINKS INSTRUCTIONS]]
+[[org.mode.org][Link to Emacs Orgmode manual]]
 
 TIMESTAMP HERE
 <2020-11-01>
