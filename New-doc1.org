@@ -1,0 +1,21 @@
+New Practice File
+* Try a heading
+** Try a subheading
+*** Try a sub-subheading
+   
+How about a table?
+| Name |        Phone | Age |
+|------+--------------+-----|
+| JOE  | 347-267-4082 |  92 |
+
+Let's try a link...
+[orgmode.org/manual/Hyperlinks.html#Hyperlinks]LINK TO ORGMODE HYPERLINKS INSTRUCTIONS]]
+
+TIMESTAMP
+<2020-11-01>
+
+*** TODO SHEDULE USING A DEADLINE:
+DEADLINE: <2020-11-98>
+
+Note: To change TODO status, I can hold down the shift key and use arrows.
+*** Lastly, how do I get this to save to my Github?
